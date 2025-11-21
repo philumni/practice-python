@@ -16,7 +16,6 @@ def sieve(n):
 
     # Collect primes
     list_of_primes = [num for num, prime in enumerate(is_prime) if prime]
-
     return list_of_primes
 
 
@@ -148,3 +147,4 @@ def main():
 
 
 main()
+
