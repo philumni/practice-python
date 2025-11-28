@@ -1,5 +1,5 @@
-# The script takes a name and id flat file,
-# and an id and (person) "height" flat file,
+# The script takes a "name and id" flat file,
+# and an "id and height" flat file,
 # and merges them into a record flat file 
 # with all three fields.
 
@@ -148,5 +148,6 @@ def main():
 	print("\nProcess complete.")
 
 main()
+
 
 
