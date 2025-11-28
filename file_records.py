@@ -1,3 +1,7 @@
+# The script takes a name and id flat file,
+# and an id and (person) "height" flat file,
+# and makes a record flat file with all three fields.
+
 class Record:
 	name=""
 	height="0'0\""
@@ -143,3 +147,4 @@ def main():
 	print("\nProcess complete.")
 
 main()
+
